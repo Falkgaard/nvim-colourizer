@@ -5,5 +5,7 @@ I made the function and palette global and made them a stand-alone plugin since 
 
 ## Note!
 In order to use this in a colorscheme, you might have to load the scheme with:
+
 ```au! VimStart * :colorscheme [name_goes_here]```
+
 in order to ensure that the plugin loads before the colorscheme.
