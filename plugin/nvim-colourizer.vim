@@ -19,10 +19,11 @@ let g:Palette.test_bg             = ['#FFFF00',  21] " TODO
 let g:Palette.test_xg             = ['#F000FF',  21] " TODO
 let g:Palette.cursor_bg           = ['#FFFF00', 222] " TODO
 let g:Palette.cursor_fg           = ['#00FFFF', 196] " TODO
-let g:Palette.todo_fg             = ['#FFFFFF', 121] " TODO
+let g:Palette.todo_discreet       = ['#666666', 141] " TODO
+let g:Palette.todo_highlight      = ['#FFFFFF', 255] " TODO
 let g:Palette.todo_bg             = ['#222222', 196] " TODO
 let g:Palette.scope_match         = ['#FFDD66', 214] " TODO
-let g:Palette.comment_discreet    = ['#555555', 214] " TODO
+let g:Palette.comment_discreet    = ['#555555', 239] " TODO
 let g:Palette.comment_highlight   = ['#FFD75F', 221]
 let g:Palette.prio_comment_fg     = ['#FFFFFF', 154] " TODO
 let g:Palette.prio_comment_bg     = ['#FF0000', 196] " TODO
@@ -58,8 +59,10 @@ let g:Palette.hyperlink           = ['#9933FF',  63] " TODO
 
 let g:Palette.dark_green          = ['#005F00',  22]
 let g:Palette.dark_red            = ['#5F0000',  52]
+let g:Palette.dark_orange         = ['#875f00',  94]
 let g:Palette.green               = ['#72D5AE',  20]
 let g:Palette.yellow              = ['#FFFF87', 228]
+let g:Palette.orange              = ['#ffaf00', 214]
 let g:Palette.yellow_light        = ['#FFD7AF', 223]
 let g:Palette.red                 = ['#FF5F5F', 203]
 
