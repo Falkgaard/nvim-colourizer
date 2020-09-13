@@ -5,6 +5,7 @@ let g:Palette.none = ['0', 0]
 let g:Palette.black               = ['#000000', 232]
 let g:Palette.white               = ['#FFFFFF', 231]
 let g:Palette.folder_fg           = ['#FFD787',  11]
+let g:Palette.dark_dark           = ['#222222', 236]
 let g:Palette.mid_dark            = ['#333333', 237]
 let g:Palette.soft_dark           = ['#3D3D3D', 238]
 let g:Palette.vsplit_fg           = ['#333333', 237] " separator 
