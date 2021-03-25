@@ -39,8 +39,8 @@ let g:Palette.dim_fg              = ['#777777', 239] " TODO
 let g:Palette.dark_fg             = ['#555555', 239] " TODO
 let g:Palette.tab_markers         = ['#333333', 239] " TODO
 
-let g:Palette.exception           = ['#AF0000', 124]
-let g:Palette.error               = ['#FF0000', 196]
+let g:Palette.exception           = ['#EE0000', 124]
+let g:Palette.error               = ['#FF4444', 196]
 let g:Palette.warning_hi          = ['#FFAF00', 214]
 let g:Palette.warning_lo          = ['#FFD75F', 221]
 
