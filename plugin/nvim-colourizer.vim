@@ -62,7 +62,8 @@ let g:Palette.mode_command_dark   = ['#5F0087',  54]
 
 let g:Palette.hyperlink           = ['#9933FF',  63] " TODO
 
-let g:Palette.snip_fg             = ['#FFDD66', 214] " TODO
+let g:Palette.snip_fg             = ['#99FFFF', 214] " TODO
+let g:Palette.snip_bg             = ['#3E0056', 224] " TODO
 
 let g:Palette.dark_green          = ['#005F00',  22]
 let g:Palette.dark_red            = ['#5F0000',  52]
