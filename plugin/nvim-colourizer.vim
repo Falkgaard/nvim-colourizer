@@ -69,6 +69,7 @@ let g:Palette.red                 = ['#FF5F5F', 203]
 
 let g:Palette.format_fg           = ['#CAA4E8',   0] " TODO
 let g:Palette.keyword_fg          = ['#FF5959',   0] " TODO
+let g:Palette.annotation_fg       = ['#BBFF99',   0] " TODO
 let g:Palette.type_fg             = ['#FFA9A9',   0] " TODO
 let g:Palette.special_fg          = ['#FFFFFF', 174] " TODO
 let g:Palette.function_fg         = ['#FF8787', 174] " TODO
