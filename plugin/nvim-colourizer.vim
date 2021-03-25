@@ -81,6 +81,7 @@ let g:Palette.constant_fg         = ['#CCFFCC', 255] " TODO
 let g:Palette.string_fg           = ['#FFBC82', 216] " TODO
 let g:Palette.controlflow_fg      = ['#FF6F89',  83] " TODO
 let g:Palette.preprocessor_fg     = ['#AFFF00',  83] " TODO
+let g:Palette.pmenu_slider        = ['#888888', 245] " TODO
 let g:Palette.pmenu_on_bg         = ['#666666', 243] " TODO
 let g:Palette.pmenu_off_bg        = ['#555555', 240] " TODO
 let g:Palette.pmenu_on_fg         = ['#FFFFFF',  83] " TODO
