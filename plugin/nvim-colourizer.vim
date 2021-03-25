@@ -85,9 +85,8 @@ let g:Palette.pmenu_slider        = ['#888888', 245] " TODO
 let g:Palette.pmenu_on_bg         = ['#666666', 243] " TODO
 let g:Palette.pmenu_off_bg        = ['#555555', 240] " TODO
 let g:Palette.pmenu_on_fg         = ['#FFFFFF',  83] " TODO
-let g:Palette.pmenu_off_fg        = ['#000000',  83] " TODO
+let g:Palette.pmenu_off_fg        = ['#DDBBAA', 223] " TODO
 " Colors }}}
-
 " Color palette initialization and "none" colour }}}
 " Highlighting Function {{{
 " Arguments: group, guifg, guibg, gui, guisp
