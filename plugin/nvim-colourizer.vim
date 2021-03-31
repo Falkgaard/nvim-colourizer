@@ -73,6 +73,7 @@ let g:Palette.yellow              = ['#FFFF87', 228]
 let g:Palette.orange              = ['#ffaf00', 214]
 let g:Palette.yellow_light        = ['#FFD7AF', 223]
 let g:Palette.red                 = ['#FF5F5F', 203]
+let g:Palette.grey                = ['#AAAAAA', 149] " TODO
 let g:Palette.purple              = ['#AF87FF', 141]
 
 let g:Palette.format_fg           = ['#CAA4E8',   0] " TODO
